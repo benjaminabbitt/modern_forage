@@ -1,6 +1,6 @@
 {
   "statusLine": {
     "type": "command",
-    "command": "\"C:\\Users\\Ben Abbitt\\bin\\ctxloom.exe\" meta hud"
+    "command": "\"/home/babbitt/go/bin/ctxloom\" meta hud"
   }
 }

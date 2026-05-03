@@ -1,6 +1,6 @@
 # Hyper-Local US Regional Cuisines: Research Tracker
 
-*Companion to hyper-local-us-regional-cuisines.md (v5.1: 154 full entries + 6 notable mentions + 7 beverages).*
+*Companion to hyper-local-us-regional-cuisines.md (v6.5: 190 full entries + 6 notable mentions + 7 beverages + 16 condiments).*
 *Status: ✅ = complete | EXCLUDED = assessed, doesn't meet criteria | DEFERRED = assessed, lower priority | ALREADY COVERED = in main doc*
 *ALL ITEMS COMPLETE. Zero ◻ remaining.*
 
@@ -286,7 +286,7 @@ Cities qualify if they have **3+ existing entries** (indicating dense food cultu
 | City | Existing Entries | Suspected Gaps | Priority |
 |------|-----------------|----------------|----------|
 | **St. Louis** | 11 (St. Paul, hot salami, slinger, Mayfair, Gerber, t-ravs, gooey butter, pork steak, Ted Drewes, Red Hot Riplets, + cashew chicken in Springfield) | Provel as standalone, STL-style pizza (Imo's), snoots | ✅ DONE — 6 added in Phase 6. Red Hot Riplets was unknown discovery. Remaining items are marginal. |
-| **Chicago** | 10 (gym shoe, Vesuvio, rainbow cone, mild sauce, giardiniera, jibarito, Mother-in-Law, Maxwell St Polish, Shrimp DeJonghe, Malört) | Pizza puff, breaded steak sandwich, Jumpball, pepper & egg, pork chop sandwich, Steak & Lemonade shops — all sub-neighborhood level | ✅ DONE — 4 added in Phase 6. 5-6 South Side sandwich subtypes identified but too granular. |
+| **Chicago** | 15 (gym shoe, Vesuvio, rainbow cone, mild sauce, giardiniera, jibarito, Mother-in-Law, Maxwell St Polish, Shrimp DeJonghe, Malört, corn roll tamale, pizza puff, sweet steak, lollipop wings, shrimp house) | Jumpball, pepper & egg, pork chop sandwich, Steak & Lemonade shops — sub-neighborhood level | ✅ DONE — 9 added across Phase 6 + v3 merge (corn roll tamale, pizza puff, sweet steak, lollipop wings, shrimp house all integrated from v3 research). |
 | **Cleveland** | 5 (Polish Boy, Packo's in Toledo, Brier Hill in Youngstown, cassata cake, brown mustard) | Slyman's = restaurant not dish, paprikash/pierogi = authentic immigrant not adaptation, pizza bagel = single vendor | ✅ DONE — tapped out. Remaining items are authentic immigrant food, not local adaptations. |
 | **Louisville** | 7 (burgoo, Ale-8-One, Benedictine, beer cheese, modjeskas, Henry Bain, Hot Brown) | Rolled oysters, Derby pie — marginal | ✅ DONE — Hot Brown added after containment assessment (Hot Brown Week = containment signal). |
 | **New Orleans** | 4 (yakamein, Creole cream cheese, Roman Candy, snowballs) | Hubig's pies (in mentions), Natchitoches meat pies (in mentions), calas, Mosca's Italian-Creole | ◧ PARTIAL — snowballs added. Remaining items in notable mentions or need research. |
@@ -324,7 +324,7 @@ These are pre-qualified leads that just need promotion to full entries with 2-so
 |------|-----------|-------------------|--------------------|-----------------------------|
 | **STL** | Gerber sandwich → Chef Denise city guide; diaspora query → Only In Your State, Odyssey | Gerber, t-ravs, gooey butter cake, pork steak, Ted Drewes | **Red Hot Riplets** (Old Vienna chips, STL Post-Dispatch longform) | Snoots, Maull's BBQ sauce, Gus's Pretzels, STL-style pizza, provel standalone |
 | **NOLA** | Hansen's Sno-Bliz → Axios NOLA snoball guide; diaspora query → generic (low yield) | Snowballs (sno-balls) | — | Hubig's, Natchitoches, calas still need research |
-| **Chicago** | Mother-in-Law → WTTW, Sandwich Tribunal longform; Wikipedia Culture of Chicago | Mother-in-Law, Maxwell Street Polish, Shrimp DeJonghe, Malört | **Shrimp DeJonghe** (Belgian-immigrant casserole, "grandmother food") | Pizza puff, breaded steak, Jumpball, pepper & egg, pork chop sandwich, Steak & Lemonade shops, bean pies |
+| **Chicago** | Mother-in-Law → WTTW, Sandwich Tribunal longform; Wikipedia Culture of Chicago; v3 merge brought in earlier Chicago city-depth research | Mother-in-Law, Maxwell Street Polish, Shrimp DeJonghe, Malört, corn roll tamale, pizza puff, sweet steak/Steak Supreme, lollipop wings (Gam Pong Gi), Chicago shrimp house | **Shrimp DeJonghe** (Belgian-immigrant casserole, "grandmother food"); **Lollipop Wings** (Korean-Chinese Albany Park adaptation, 8+ sources); **Sweet Steak** (Black-owned Taurus Flavors origin, endangered) | Jumpball, pepper & egg, pork chop sandwich, Steak & Lemonade shops, bean pies |
 
 **Key finding:** Diaspora queries worked for STL (high-signal nostalgia threads) but not for NOLA (too generic — "food" dominates all NOLA discussion). City-specific food guides (Chef Denise for STL, Wikipedia Culture of Chicago) were the highest-yield single sources. Wikipedia's "Culture of [City]" food sections are an underused systematic source — they list 15+ items with containment signals.
 
@@ -342,8 +342,20 @@ These are pre-qualified leads that just need promotion to full entries with 2-so
 - ✅ Omaha (Johnny's Cafe) — JBF 2026, 103-year-old stockyards steakhouse. Single restaurant institution, not a named dish or preparation. "Steaks near stockyards" isn't a dish.
 - ✅ Las Vegas (99¢ shrimp cocktail) — Golden Gate 1959, 30M+ sold. But shrimp cocktail is a nationally universal dish. Vegas version is just the same thing cheaper. Containment is about price point, not preparation.
 
-**Phase 6 COMPLETE. 14 entries added across 6 cities (STL 6, NOLA 1, Chicago 4, Louisville 1, Buffalo 2). 3 TIER 3 cities all excluded. Survey at natural saturation at 182 entries.**
+**Phase 6 COMPLETE. 19 entries added across 6 cities (STL 6, NOLA 1, Chicago 9, Louisville 1, Buffalo 2). 3 TIER 3 cities all excluded.**
 
 ---
 
-*Last updated: May 3, 2026 — Version 6.4. Phase 6 COMPLETE. 182 entries + 6 mentions + 7 beverages + 16 condiments.*
+## V3 MERGE (May 3, 2026)
+
+A divergent v3 of the main doc (`hyper-local-us-regional-cuisines-v3.md`, self-labeled v4.0) carried entries that had been worked up but never integrated into the canonical doc as it grew through Phases 5–6. Reconciled by merging all v3-unique content forward; v3 file deleted. Net additions:
+
+- **Chicago (5):** Corn Roll Tamale, Pizza Puff, Sweet Steak (Steak Supreme), Lollipop Wings (Gam Pong Gi), Chicago Shrimp House. Plus a Chicago marginalia blockquote (Christkindlmarket, Greektown sesame bread, tamale man, Walker Bros) appended to the section.
+- **Michigan (2):** UP Michigan Pasty (somehow absent from canonical despite Butte Pasty being present), Finnish UP Foodways (Keweenaw food ecosystem: pannukakku, juustoa, Trenary Toast, thimbleberry jam, saunamakkara).
+- **Cross-cutting (1):** Cornish Mining Pasty Corridor — 11-community essay (UP MI, Butte MT, Grass Valley CA, Mineral Point WI, Globe-Miami AZ, Bisbee AZ, etc.) parallel in structure to the German-Russian Great Plains and Basque-American patterns.
+
+Earlier "Spotted but Not Added" / "too granular" notes against pizza puff and South Side sandwich subtypes have been retracted — those entries were already validated in v3 with 6–8 sources each and were not deliberate exclusions but lost content.
+
+---
+
+*Last updated: May 3, 2026 — Version 6.5. Phase 6 + v3 merge COMPLETE. 190 entries + 6 mentions + 7 beverages + 16 condiments.*

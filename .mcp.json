@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "ctxloom": {
-      "command": "C:\\Users\\Ben Abbitt\\bin\\ctxloom.exe",
+      "command": "/home/babbitt/go/bin/ctxloom",
       "args": [
         "mcp"
       ],
