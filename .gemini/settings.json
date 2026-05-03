@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ctxloom": {
+      "command": "C:\\Users\\Ben Abbitt\\bin\\ctxloom.exe",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

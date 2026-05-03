@@ -1,0 +1,3 @@
+
+# ctxloom ephemeral data (synced bundles, session data, context files)
+.ctxloom/ephemeral/

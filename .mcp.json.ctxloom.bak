@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ctxloom": {
+      "command": "C:\\Users\\Ben Abbitt\\bin\\ctxloom.exe",
+      "args": [
+        "mcp"
+      ],
+      "cwd": "${CLAUDE_PROJECT_DIR}",
+      "_ctxloom": "ctxloom-auto"
+    }
+  }
+}
