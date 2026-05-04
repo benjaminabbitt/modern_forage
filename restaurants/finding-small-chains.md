@@ -126,6 +126,9 @@ These pass the refined filter: genuinely excellent food + signature item + cultu
 - **Courtesy Diner** — 3 locations. ⚠️ SINGLE-ITEM REC: the **slinger** (hash browns, burger patty, eggs, chili). Genuinely excellent, uniquely St. Louis, and a legitimate signature dish. The rest of the menu is generic diner food — skip it. Cash only.
 - **Lion's Choice** — ~24 locations. Roast beef slow-roasted on-site 3 hours, shaved thin, served medium rare. Legitimately good fast food — the beef is the real product. Not transcendent, but honest.
 
+**Midwest:**
+- **Maid-Rite** — ~20 locations, Iowa-centric (also IL, MN, MO). Down from a 1950s peak of 75+; the chain has reportedly contracted deliberately and refocused on quality (verify before trusting). Founded 1926 in Muscatine, IA, by Fred Angell. Signature: the loose-meat sandwich — crumbled seasoned ground beef on a steamed bun with mustard, pickle, onion. Not a sloppy joe (no sauce, no sweetness). Franchise model, so quality still varies between locations. ⚠️ **The destination:** Taylor's Maid-Rite, Marshalltown — same family since 1928, James Beard America's Classic 2008. Skip the random highway franchisees.
+
 **Texas:**
 - **Pappacito's** — Tex-Mex, ~10 locations, Houston-centric. Pappas family. Signature: beef fajitas, table-side guac. Family-owned group that runs multiple concepts without franchising.
 
